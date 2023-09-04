@@ -1,4 +1,6 @@
 - 👋 Hello
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning go, javascript and reactjs
-- 📫 How to reach me: Gmail: framecodechaos@gmail.com; Discord: chaosisframecode;;
+- 📫 How to reach me
+-   Gmail: framecodechaos@gmail.com;
+-   Discord: chaosisframecode;
