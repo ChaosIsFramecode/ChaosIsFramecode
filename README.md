@@ -1,5 +1,5 @@
 - 👋 Hello
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web and game development
 - 🌱 I’m currently learning go, javascript and reactjs
 - 📫 How to reach me
 -   Gmail: framecodechaos@gmail.com;
