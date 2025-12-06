@@ -3,4 +3,4 @@
 - 🌱 I’m usually hop around programming languages.
 - 📫 How to reach me
 -   Gmail: framecodechaos@gmail.com;
--   Discord: chaosisframecode;
+-   Discord: strochca;
